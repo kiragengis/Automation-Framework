@@ -1,2 +1,2 @@
 # AutomationFramework
-A simple framework for Selenium with C#
+A simple framework for Selenium with NUnit and C#
